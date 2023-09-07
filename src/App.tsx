@@ -7,9 +7,10 @@ import Counter from "./components/Counter";
 function App() {
   return (
     <div>
-      {/* <Navbar /> */}
-      {/* <Camera /> */}
-      <Counter />
+      <Navbar />
+      <Camera />
+      {/* <Counter /> */}
+      <Form />
     </div>
   );
 }
